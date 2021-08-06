@@ -22,3 +22,7 @@ automatically inject the changed file(s)!
 * Build the docker image: `docker build . -t ai-research.id`
 * Run the docker image: `docker run -d -p 3000:3000 ai-research.id`
 * Access the website http://localhost:3000/
+
+## Acknowledge
+This website template has been copied from [Laurel](https://cruip.com/laurel/), a dark and elegant landing
+page template.
